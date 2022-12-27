@@ -1,0 +1,16 @@
+{
+  "name": "html_semantic_seg",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.11.0",
+    "@playwright/test": "^1.29.0",
+    "playwright": "^1.29.1",
+    "playwright-core": "^1.29.0"
+  }
+}
